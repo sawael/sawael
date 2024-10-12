@@ -15,9 +15,9 @@
 Currently building the official website for **ONE PLAINS** and expanding our services to reach more small businesses in need of **brand identity development**.
 
 ### 📫 How to Reach Me
-- LinkedIn: [Al-Saeed Wael](https://www.linkedin.com/in/your-link-here)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Portfolio: Coming soon!
+- LinkedIn: [Al-Saeed Wael](https://www.linkedin.com/in/alsaeed-wael/)
+- Email: [Contact-me!](mailto:dev.alsaeedwael@gmail.com)
+- Portfolio: [View my website!](https://sawael.github.io/)
 
 ### 🛠️ Technologies & Tools
 - **Frontend Development**: HTML5, CSS, Bootstrap, ReactJS, Flutter, Dart
