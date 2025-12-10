@@ -1,9 +1,10 @@
 <h1 align="center">Hi there! I'm Al-Saeed Wael</h1>
-<h3 align="center">An organization manager @ GraphStudio, and a passionate Machine Learning & AI Engineering Student based in egypt.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawael&label=Profile%20views&color=000000&style=flat" alt="sawael" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sawael" alt="sawael" /></a> </p>
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">Al-Saeed's Github Trophy</h2>
+  <p align="center"> <img src="https://img.shields.io/badge/Profile%20Views-59,470-black?style=flat" /> </p>
+</div>
 
 - 🌱 What I'm Working On [A Data Visualization using machine learning and data analysis using the data of Gold Prices (1979-2021))](https://github.com/sawael/goldprice)
 
